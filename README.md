@@ -49,7 +49,7 @@
 
 - **HTML5** - Advanced level
 - **CSS3/SCSS** - Advanced level
-- **JavaScript** - Advanced level
+- **JavaScript** - Middle+ level
 - **React/Vue** - Middle level
 - **NodeJS/Express** - Low level
 
