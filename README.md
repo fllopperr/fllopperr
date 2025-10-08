@@ -43,22 +43,6 @@
 - Specialty: Frontend development
 - Years of study: [2024] - [2027]
 
-## 🎨 My skills
-
-### 💻 Frontend:
-
-- **HTML5** - Advanced level
-- **CSS3/SCSS** - Advanced level
-- **JavaScript** - Middle+ level
-- **React/Vue** - Middle level
-- **NodeJS/Express** - Low level
-
-### 🧰 Tools:
-
-- Git & GitHub
-- VS Code
-- Figma
-
 ## 📫 How to contact me
 
 - <img src="image-1.png" width="20" style="vertical-align: top; margin: 0 5px 10px;"> **Telegram**: [@flopper75](https://t.me/flopper75)
