@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="96">
       <a href="#danil-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/888888" width="48" height="48" alt="Express" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/000000" width="48" height="48" alt="Express" />
       </a>
       <br>Express
     </td>
@@ -115,7 +115,7 @@
     </td>
     <td align="center" width="96">
       <a href="#danil-tech">
-        <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2Falertbox%2Ftry-bun&ved=0CBYQjRxqFwoTCLCA3-y34pMDFQAAAAAdAAAAABAI&opi=89978449" width="48" height="48" alt="Bun" />
+        <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" width="48" height="48" alt="Bun" />
       </a>
       <br>Bun
     </td>
