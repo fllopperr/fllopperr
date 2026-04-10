@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="96">
       <a href="#danil-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/000000" width="48" height="48" alt="Express" />
+        <img src="https://img.icons8.com/color/512/express-js.png" width="48" height="48" alt="Express" />
       </a>
       <br>Express
     </td>
